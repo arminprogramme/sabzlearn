@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sabzlearn/static/css/main.230f41e4.css",
+    "main.js": "/sabzlearn/static/js/main.df5fc9f8.js",
+    "static/js/787.ceab0973.chunk.js": "/sabzlearn/static/js/787.ceab0973.chunk.js",
+    "index.html": "/sabzlearn/index.html",
+    "main.230f41e4.css.map": "/sabzlearn/static/css/main.230f41e4.css.map",
+    "main.df5fc9f8.js.map": "/sabzlearn/static/js/main.df5fc9f8.js.map",
+    "787.ceab0973.chunk.js.map": "/sabzlearn/static/js/787.ceab0973.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.230f41e4.css",
+    "static/js/main.df5fc9f8.js"
+  ]
+}
