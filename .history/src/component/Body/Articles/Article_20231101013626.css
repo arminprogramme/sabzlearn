@@ -1,0 +1,8 @@
+.article-content {
+    background-image: linear-gradient(to top, #28293d 80%, #ffffff9b 10%);
+    border: 0!important;
+}
+
+.article-item .banner-img-article:before {
+    background: linear-gradient(0deg, rgba(40, 41, 61, 1) 0%, rgba(40, 41, 61, 0) 90%)!important;
+}

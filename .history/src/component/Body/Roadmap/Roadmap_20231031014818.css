@@ -1,0 +1,8 @@
+.map-item {
+    padding: 1rem 0.6rem;
+    background-color: red;
+}
+
+.map-item-content {
+    padding-bottom: 1rem;
+}

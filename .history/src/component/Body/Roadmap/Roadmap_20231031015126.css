@@ -1,0 +1,28 @@
+.map-item {
+    padding: 1rem 0.6rem;
+    background-color: red;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.map-item-content {
+    padding-bottom: 1rem;
+    color: #fff;
+}
+
+.map-item-content i {
+    font-size: 3rem;
+}
+
+.map-item-content h2 {
+    font-size: 1.2rem;
+    padding-top: 0.5rem;
+}
+
+.map-item-count span {
+    background-color: #28293D;
+    color: #fff;
+}

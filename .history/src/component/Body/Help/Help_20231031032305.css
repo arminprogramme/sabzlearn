@@ -1,0 +1,29 @@
+#my-pie-chart {
+    height: 90px;
+    width: 90px;
+    margin: 0 1rem;
+}
+
+#my-pie-chart {
+    border-radius: 50%;
+    background: conic-gradient(brown 20.00%, red 80.47%);
+    transform: rotate(6deg);
+    -webkit-transform: rotate(6deg);
+    -moz-transform: rotate(6deg);
+    -ms-transform: rotate(6deg);
+    -o-transform: rotate(6deg);
+}
+
+.help-item {
+    border-radius: 10px;
+    background-color: #28293D;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.help-item h4 {
+    font-size: 1.8rem;
+    color: #fff;
+}

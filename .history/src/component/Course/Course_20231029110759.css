@@ -1,0 +1,13 @@
+.price-product {
+    color: #2ED573;
+    font-size: 1.6rem;
+    font-weight: bold;
+}
+
+.separator {
+    width: 100%;
+    padding: 0.02rem;
+    display: block;
+    background-color: #474a52;
+    margin: 1rem 0;
+}

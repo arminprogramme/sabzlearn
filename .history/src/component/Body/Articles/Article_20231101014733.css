@@ -1,0 +1,12 @@
+.article-content {
+    background: transparent;
+    background-color: #28293d;
+    padding-top: -1.5rem;
+    outline: 0;
+    border: 0!important;
+}
+
+.banner-img-article {
+    background-image: linear-gradient(to top, #28293d, #595869, #8d8c98, #c5c4ca, #ffffff00), url(../../../../public/images/article/android-on-javascript-768x432.png);
+    height: 10rem;
+}

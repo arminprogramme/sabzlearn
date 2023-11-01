@@ -1,0 +1,12 @@
+.price-product {
+    color: #2ED573;
+    font-size: 1.6rem;
+    font-weight: bold;
+}
+
+.price-product ::after {
+    color: #2ED573;
+    content: 'تومان';
+    font-size: 1.6rem;
+    font-weight: bold;
+}

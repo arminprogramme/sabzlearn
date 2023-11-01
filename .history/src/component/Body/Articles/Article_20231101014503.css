@@ -1,0 +1,11 @@
+.article-content {
+    background: transparent;
+    background-image: linear-gradient(to top, #28293d 70%, #ffffff);
+    padding-top: -1.5rem;
+    outline: 0;
+    border: 0!important;
+}
+
+.banner-img-article {
+    background-image: url(../../../../public/images/article/android-on-javascript-768x432.png);
+}

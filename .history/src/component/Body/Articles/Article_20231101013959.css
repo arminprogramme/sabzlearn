@@ -1,0 +1,5 @@
+.article-content {
+    background: transparent;
+    background-image: linear-gradient(to top, #28293d 80%, #28293dd5);
+    border: 0!important;
+}

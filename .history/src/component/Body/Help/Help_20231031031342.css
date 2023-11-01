@@ -1,0 +1,9 @@
+#my-pie-chart {
+    height: 700px;
+    width: 70px;
+}
+
+#my-pie-chart {
+    border-radius: 50%;
+    background: conic-gradient(brown 0.00%, red 40.47%);
+}

@@ -1,0 +1,8 @@
+.insta-button button {
+    justify-content: start;
+    width: 3rem;
+}
+
+.instagram-item {
+    background-color: red;
+}

@@ -1,0 +1,43 @@
+.price-product {
+    color: #2ED573;
+    font-size: 1.6rem;
+    font-weight: bold;
+}
+
+.separator {
+    width: 100%;
+    padding: 0.02rem;
+    display: block;
+    background-color: #474a52;
+    margin: 1rem 0;
+}
+
+.title-product {
+    font-size: 1.1rem;
+}
+
+.main-card,
+.main-card img {
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+
+.categories p {
+    background-color: #3D3A39;
+    border-radius: 5px;
+    color: #E8CA18;
+    padding: 0 0.3rem;
+    margin-bottom: 0.5rem;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    font-size: 1rem;
+    -o-border-radius: 5px;
+}
+
+.card {
+    height: 6rem;
+}

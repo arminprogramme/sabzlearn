@@ -1,0 +1,23 @@
+.article-content {
+    background: transparent;
+    background-color: #28293d;
+    padding-top: -1.5rem;
+    outline: 0;
+    border: 0!important;
+}
+
+.article-item {
+    border-radius: 6px !important;
+    -webkit-border-radius: 6px !important;
+    -moz-border-radius: 6px !important;
+    -ms-border-radius: 6px !important;
+    -o-border-radius: 6px !important;
+}
+
+.banner-img-article {
+    height: 20rem;
+}
+
+.read-article {
+    color: #fff;
+}

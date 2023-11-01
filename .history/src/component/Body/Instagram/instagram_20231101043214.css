@@ -1,0 +1,9 @@
+.instagram-item {
+    background-image: linear-gradient(to left, #fee254, #ff9a40, #ff4068, #e300a2, #512ed5);
+    padding: 1.5rem 1rem;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}

@@ -1,0 +1,11 @@
+.price-product {
+    color: #2ED573;
+    font-size: 1.6rem;
+    font-weight: bold;
+}
+
+.separator {
+    width: 100%;
+    padding: 0.2rem;
+    background-color: red;
+}

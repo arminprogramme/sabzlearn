@@ -1,0 +1,30 @@
+.instagram-item {
+    background-image: linear-gradient(to left, #fee254bc, #ff9940c1, #ff4069be, #e300a3c4, #522ed57e), url(../../../../public/images/general/section-pattern.png);
+    padding: 1.5rem 1rem;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.instagram-item button {
+    background-color: #fff;
+    padding: 0.9rem 0.8rem;
+    border-radius: 10px;
+    transition: 0.5s;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    color: #2400a6;
+    -o-border-radius: 10px;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -o-transition: 0.5s;
+}
+
+.instagram-item button:hover {
+    background: transparent;
+    color: #fff
+}

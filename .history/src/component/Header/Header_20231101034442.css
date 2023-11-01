@@ -1,0 +1,100 @@
+.bg-custom-black {
+    background-color: #1c1c28;
+}
+
+body {
+    background-color: #1c1c28;
+}
+
+.dropdown-menu {
+    width: 15rem!important;
+    margin: 0 -3rem!important;
+}
+
+.drop-menu li {
+    width: 100%;
+}
+
+.max-width {
+    padding: 5% 3% 3%;
+    margin: auto;
+    max-width: 1650px;
+}
+
+.message-banner p {
+    padding: 0.5rem 0.8rem;
+    background-color: rgb(40, 41, 61);
+    border-radius: 50px;
+    cursor: pointer;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    color: #ddd;
+    font-size: 1.3rem;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+}
+
+.message-banner p:hover {
+    border: 2px solid green;
+}
+
+.title-banner h2 {
+    font-size: 4rem;
+    padding: 4rem 0;
+    color: #ddd;
+    font-weight: bold;
+}
+
+.title-banner p {
+    font-size: 1.7rem;
+    color: #b7b7b7;
+    font-weight: bold;
+}
+
+.button-banner {
+    padding: 3rem 0;
+}
+
+.button-banner div {
+    margin: 0rem 2rem;
+}
+
+.how-start-banner {
+    padding: 0.8rem 1.2rem;
+    background-color: rgb(77, 128, 250);
+    border-radius: 50px;
+    color: #fff;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    font-size: 1.4rem;
+    -o-border-radius: 50px;
+}
+
+.play-btn-div i {
+    color: #fff;
+    background-color: rgb(46, 213, 115);
+    padding: 1rem;
+    font-size: 1.2rem;
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+}
+
+.play-btn-div span {
+    font-size: 1.4rem;
+    padding: 0 1rem;
+    color: #fff;
+}
+
+.img-banner img {
+    width: 100%;
+}
+
+@media only screen and (max-width: 1000px) {
+    .img-banner img {
+        padding: 1rem 2.5rem;
+    }
+}

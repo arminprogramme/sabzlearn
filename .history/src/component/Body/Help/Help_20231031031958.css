@@ -1,0 +1,19 @@
+#my-pie-chart {
+    height: 70px;
+    width: 70px;
+    margin: 0 2rem;
+}
+
+#my-pie-chart {
+    border-radius: 50%;
+    background: conic-gradient(brown 20.00%, red 80.47%);
+    transform: rotate(6deg);
+    -webkit-transform: rotate(6deg);
+    -moz-transform: rotate(6deg);
+    -ms-transform: rotate(6deg);
+    -o-transform: rotate(6deg);
+}
+
+.help-item {
+    background-color: #28293D;
+}
